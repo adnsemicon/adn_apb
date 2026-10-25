@@ -11,7 +11,7 @@ The `adn_apb_to_pmi` module is designed to interface standard APB-compliant peri
 | 1.1      | 2026-08-27 | Ahasan Ullah Khalid    | Stable release                                         |
 
 Author : Annim Jannat (jannatannim@gmail.com)
-This file is part of ADN-VLSI/adn_apb
+This file is part of adnsemicon/adn_apb
 Copyright (c) 2026 ADN Semiconductors
 Licensed under the MIT License
 See LICENSE file in the project root for full license information

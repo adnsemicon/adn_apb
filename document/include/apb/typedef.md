@@ -26,7 +26,7 @@ __GUARD_APB_TYPEDEF_SVH__
 ## Description
 
 # apb/typedef.svh 
-This file defines SystemVerilog macros for generating APB (Advanced Peripheral Bus) request and response structures, ensuring consistent interface definitions across the ADN-VLSI/adn_apb project.
+This file defines SystemVerilog macros for generating APB (Advanced Peripheral Bus) request and response structures, ensuring consistent interface definitions across the adnsemicon/adn_apb project.
 
 This file serves as a centralized header for generating standardized APB interface structures. By utilizing parameterized macros, it allows hardware designers to instantiate custom-width APB request and response types dynamically, reducing boilerplate code and ensuring strict adherence to the APB protocol specifications across the design hierarchy.
 

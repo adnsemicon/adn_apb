@@ -15,7 +15,7 @@
 | 1.2      | 2026-08-18 | Shuparna Haque | Updated and finalized version                           |
 
 Author : Shuparna Haque (sheikhshuparna3108@gmail.com)
-This file is part of ADN-VLSI/adn_apb
+This file is part of adnsemicon/adn_apb
 Copyright (c) 2026 ADN Semiconductors
 Licensed under the MIT License
 See LICENSE file in the project root for full license information
